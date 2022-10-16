@@ -1,0 +1,6 @@
+controllers:
+    resource: ../src/Controller/
+    type: attribute
+dabadoc:
+    path: /
+    controller: App\Controller\DabadocController::index
